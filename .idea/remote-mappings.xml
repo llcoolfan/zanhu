@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteMappingsManager">
+    <list>
+      <list>
+        <remote-mappings server-id="python@sftp://llcoolf@192.168.56.101:22/home/llcoolf/.local/share/virtualenvs/zanhu-0EyUD_k8/bin/python" />
+        <remote-mappings server-id="python@b19c0b35-0565-44e8-9e04-5be1864fa791" />
+      </list>
+    </list>
+  </component>
+</project>
